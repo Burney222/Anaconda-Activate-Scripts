@@ -1,0 +1,1 @@
+Move activate.d and deactivate.d to ~/anaconda/envs/<environment-name>/etc/conda
